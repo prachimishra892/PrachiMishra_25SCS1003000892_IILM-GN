@@ -1,0 +1,21 @@
+song_name,artist,genre,danceability,energy,valence,tempo,loudness,acousticness,instrumentalness
+Shape of You,Ed Sheeran,pop,0.82,0.65,0.93,96,-3.0,0.18,0.00
+Blinding Lights,The Weeknd,pop,0.51,0.73,0.34,171,-5.9,0.01,0.00
+Believer,Imagine Dragons,rock,0.77,0.78,0.67,125,-4.1,0.02,0.00
+Thunder,Imagine Dragons,rock,0.60,0.81,0.42,168,-4.8,0.01,0.00
+Closer,Chainsmokers,pop,0.75,0.52,0.66,95,-6.0,0.41,0.00
+Lean On,Major Lazer,edm,0.72,0.79,0.62,98,-3.9,0.10,0.00
+Animals,Martin Garrix,edm,0.63,0.92,0.45,128,-2.5,0.01,0.80
+Faded,Alan Walker,edm,0.47,0.75,0.17,90,-5.6,0.20,0.30
+Havana,Camila Cabello,pop,0.76,0.52,0.78,105,-4.3,0.18,0.00
+Rockstar,Post Malone,hiphop,0.59,0.52,0.13,160,-6.0,0.12,0.00
+Gods Plan,Drake,hiphop,0.75,0.45,0.36,77,-7.0,0.25,0.00
+Sicko Mode,Travis Scott,hiphop,0.56,0.68,0.40,155,-6.5,0.05,0.00
+Sunflower,Post Malone,pop,0.76,0.48,0.91,90,-4.5,0.30,0.00
+Memories,Maroon 5,pop,0.76,0.40,0.66,91,-7.2,0.50,0.00
+Counting Stars,OneRepublic,pop,0.73,0.75,0.82,122,-4.2,0.06,0.00
+Radioactive,Imagine Dragons,rock,0.45,0.87,0.29,136,-3.5,0.01,0.10
+Titanium,David Guetta,edm,0.62,0.80,0.55,126,-3.8,0.03,0.00
+Stay,Justin Bieber,pop,0.59,0.76,0.48,170,-4.6,0.04,0.00
+Bad Guy,Billie Eilish,pop,0.70,0.43,0.56,135,-11.0,0.33,0.00
+Industry Baby,Lil Nas X,hiphop,0.74,0.70,0.89,150,-3.2,0.02,0.00
